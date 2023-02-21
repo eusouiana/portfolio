@@ -10,7 +10,7 @@ Projeto de portfolio criado no curso de HTML e CSS para Iniciantes da Origamid.
 - CSS3
 
 ## 🚀 Links 
-[Link do projeto](https://portfolio.github.io/ "link")
+[Link do projeto](https://eusouiana.github.io/portfolio/ "link")
 
 
 ## 📈 Status
